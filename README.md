@@ -16,7 +16,7 @@ git clone https://github.com/vishnu175/sparkzzzupdater
 ##### 2. Run the below command to run the script
 
 ```bash
-. updatesparkzzz/s*
+. sparkzzzupdater/s*
 ```
 
 The script will do the process automatically
