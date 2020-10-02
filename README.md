@@ -10,7 +10,7 @@
 ##### 1. Clone the repository in root folder. (Mandatory!) (If exists, then ignore)
 
 ```bash
-git clone https://github.com/ashwinstr/updatesparkzzz
+git clone https://github.com/vishnu175/updatesparkzzz
 ```
 
 ##### 2. Run the below command to run the script
