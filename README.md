@@ -34,6 +34,9 @@ The script will do the process automatically
 git clone https://github.com/vishnu175/updatesparkzzz
 ```
 
+![logo](https://telegra.ph/file/d08405122daa76e461b91.jpg)
+
+
 #### 2. Open script.sh
 After entering the reqiured variables, the script will do its work.
 
